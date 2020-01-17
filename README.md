@@ -2,7 +2,7 @@
 Movuino firmware and middleware (Movuina) for OSC from CRI Motion lab
 
 # Movuino Firmware for OSC
-Latest firmware can be found here : 
+Latest firmware can be found here #[Only works with esp core version <=2.3.0]#: 
 https://github.com/CRI-MotionLab/movuino-firmware
 
 # Movuina Middleware
